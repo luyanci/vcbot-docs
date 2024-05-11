@@ -4,28 +4,28 @@ layout: home
 sidebar: false
 
 hero:
-  name: Home
-  text: vitepress 的文档模板
-  tagline: 更快的开发开源文档
+  name: VC酱-bot
+  text: 
+  tagline: 一个个人部署的机器人
   image:
-    src: /logo.svg
+    src: /favicon.jpg
     alt: Refs
   actions:
     - theme: brand
       text: guide
       link: /guide/
     - theme: alt
-      text: about
-      link: /about/
+      text: 点击添加QQ
+      link: https://qm.qq.com/q/9SrCmseRZC
 
 features:
-  - title: TODO
-    details: TODO
-    icon: ⚡
-  - title: TODO
-    details: TODO
-    icon: ☁️
-  - title: TODO
-    details: TODO
-    icon: 🚀
+  - title: 机器人qq
+    details: 'qq:2532559665'
+    icon: '<i class="ri-qq-fill"></i>'
+  - title: 支持B站
+    details: 支持B站动态推送
+    icon: '<i class="ri-bilibili-fill"></i>'
+  - title: 全平台通用
+    details: TODO（不想写）
+    icon: '<i class="ri-java-line"></i>'
 ---
