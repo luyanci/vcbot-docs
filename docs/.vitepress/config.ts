@@ -16,19 +16,23 @@ export default defineConfig({
 		]
 	},
 	themeConfig: {
-		logo: 'logo.svg',
+		logo: 'favicon.jpg',
 		footer: {
 			message: 'Released under the MIT License.',
 			copyright: 'Copyright © 2024 VCBots'
 		},
 		nav: [
 			{
-				text: 'Guide',
+				text: '用户文档',
 				link: '/guide/'
 			},
 			{
-				text: 'About',
-				link: '/about/'
+				text: '部署文档',
+				link: '/config/'
+			},
+			{
+				text: '公共机器人',
+				link: 'https://qm.qq.com/q/9SrCmseRZC'
 			}
 		],
 		socialLinks: [
