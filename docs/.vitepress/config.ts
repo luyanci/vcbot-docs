@@ -8,7 +8,7 @@ export default defineConfig({
 	description: '',
         head: [
         ['link', { rel: 'icon', href: '/favicon.jpg' }],
-        ['link', { rel: 'stylesheet', href: 'remixicon/fonts/remixicon.css'}]
+        ['link', { rel: 'stylesheet', href: 'https://unpkg.com/remixicon@latest/fonts/remixicon.css'}]
         ],
 	vite: {
 		plugins: [
