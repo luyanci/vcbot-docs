@@ -6,7 +6,10 @@ export default defineConfig({
 	base: '/',
 	title: 'VCBot',
 	description: '',
-	head: [['link', { rel: 'icon', href: '/favicon.jpg' }]],
+        head: [
+        ['link', { rel: 'icon', href: '/favicon.jpg' }],
+        ['link', { rel: 'stylesheet', href: 'https://unpkg.com/remixicon@latest/fonts/remixicon.css'}]
+        ],
 	vite: {
 		plugins: [
 			AutoSidebar({
