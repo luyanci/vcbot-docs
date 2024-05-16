@@ -27,5 +27,5 @@ features:
     icon: '<i class="si si-bilibili si--color"></i>'
   - title: 全平台通用
     details: TODO（不想写）
-    icon: '<i class="si si-openjdk si--color"></i>'
+    icon: '<i class="si si-gradle si--color"></i>'
 ---
